@@ -1,9 +1,22 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: prudhvi
+  description: developer
+  company: applitech 
 
-  # If the issue tracker for your role is not on github, uncomment the
+  ---
+galaxy_info:
+  author: Your Name
+  description: A brief description of the role
+  company: Your Company
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+        - focal
+  # Additional metadata fields can be added as needed
+# If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
 
